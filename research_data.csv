@@ -1,0 +1,586 @@
+Section,Link,Title,Text
+AI,https://www.csee.umbc.edu/csee-research-areas/,CSEE Research Areas,"Communications and Photonics
+Topics: Cognitive Radio,  Nonlinear and Integrated Optics, Optical Fibers, Wireless Communications and Networking
+Faculty: Gary Carter, Fow-Sen Choa, Anthony Johnson, Seung-Jun Kim, Curtis Menyuk, Dmitri Perkins, Ergun Simsek, Li Yan, Mohamed Younis
+Computer Architecture and Hardware Systems
+Topics: Hardware Security, Low-power IC Design, Multicore Systems, Neuromorphic Computing, VLSI Design/Test
+Faculty: Riadul Islam, Naghmeh Karimi, Chenchen Liu, Dhananjay Phatak, Ryan Robucci
+Cyber-Physical Systems
+Topics: IoT, Networking, Network Protocols and Management, Network Security, Secure Communication, Smart Power Grids
+Faculty: Nilanjan Banerjee, Riadul Islam, Anupam Joshi, Naghmeh Karimi, Seung-Jun Kim, Dong Li, Dmitri Perkins, Ryan Robucci, Deepinder Sidhu, Mohamed Younis, Roberto Yus
+Graphics and Visualization
+Topics: Character Animation, Computer Graphics, Scientific/Data Visualization
+Faculty: Adam Bargteil, Don Engel, Mark Olano, Rebecca Williams
+AI, Machine Learning, and Signal Processing
+Topics: AI, Data Analytics, Knowledge Representation, Machine Learning, Matrix and Tensor Factorizations, Natural Language Processing, Computer Vision, Robotics, Statistical Signal Processing
+Faculty: Tulay Adali, Justin Brooks, Chein-I Chang, Keke Chen, Sanorita Dey, Don Engel,  Frank Ferraro, Tim Finin, Tejas Gokhale, Riadul Islam, Manas Gaur, Konstantinos Kalpakis, Seung-Jun Kim, Dong Li, Lara Martin, Cynthia Matuszek, Charles Nicholas, Tim Oates, Ramana Vinjamuri, Rebecca Williams
+Security and Privacy
+Topics: Computer Security, Cryptography, Cybersecurity, Malware Analysis, Protocols, Secure Voting
+Faculty: Nilanjan Banerjee, Keke Chen, Tim Finin, Richard Forno,  Anupam Joshi, Naghmeh Karimi, Charles Nicholas, Dhananjay Phatak, Alan Sherman, Deepinder Sidhu, Mohamed Younis, Roberto Yus
+Quantum Computing/Theory and Algorithms
+Topics: Computational Complexity Theory, Quantum Computation, Quantum Information, Scientific and Engineering Computation
+Faculty: Richard Chang, Milt Halem, Sam Lomonaco, Curtis Menyuk, Yaacov Yesha"
+AI,https://www.csee.umbc.edu/research-focus-areas-and-centers/,Research Focus Areas and Centers,"Focus Areas
+Brain Discovery
+
+The human brain is the most complex organ in our body – and possibly the most complex entity on earth.  It controls decision making to each and every process that controls our body.  This organ that weighs just about three pounds has stunned and delighted scientists and engineers for decades and continues to do so.  Our work encompasses brain-computer interfaces, their applications in human-robot interaction, the study of brain networks and connectivity, understanding the brain function using brain imaging and data fusion methods, brain stimulation (deep and focused transcranial magnetic stimulation), and cortical arousal during sleep.  Our work targets understanding the healthy or developing brain as well as one suffering from a disorder.
+
+Work in the area is conducted in the following research labs as well as part of an upcoming NSF IUCRC center, Building Reliable Advances in Neurotechnologies (BRAIN).  The center has the following five themes spearheaded by diverse faculty in our department: cyber-human systems, AI and Big Data for Brain, Neural Signal Processing and Machine learning, Neural stimulation, and Virtual and augmented reality.  For more information please see www.nsfbrain.org.
+
+Research Faculty and Labs
+
+Tulay Adali – Machine Learning for Signal Processing Lab
+
+Nilanjan Banerjee – Mobile Pervasive and Sensory Systems Lab
+
+Justin Brooks
+
+Fow-Sen Choa – Choa’s Lab
+
+Seung-Jun Kim – Signal Processing and Smart Systems Lab
+
+Ramana Kumar Vinjamuri – Vinjamuri Lab 
+
+Human-System Engineering to Optimize Health and Performance
+The proliferation of technologies for mobile and pervasive sensing, advances in computational/cloud capabilities, and advances in machine learning and AI are shaping multidisciplinary frontiers for systems that improve the human condition: health and well-being.  Individuals and patients across diverse groups and caregivers cooperating with new technology can now address afflictions and surpass past limitations, such as those imposed by gaps in observability and obstacles to the frequency of interactions so that we can
+explore new datasets with increased volume, complexity, and real-world variability;
+develop novel systems to collect data and provide real-time feedback and intervention;
+enable caregiver data exploration and assisted interpretation.
+Humans and systems can work integratively to address a wide range of health and performance-related conditions, including disease states (e.g., diagnosis, illness trajectory monitoring) and performance states (e.g., stress, fatigue, boredom). Our research in this area spans sensor and embedded system development, real-time control systems, and applications of machine learning methods to human state estimation.
+Research Faculty and Labs
+
+Nilanjan Banerjee – Mobile Pervasive and Sensory Systems Lab
+
+Justin Brooks
+
+Sanorita Dey – Social Intelligence Lab
+
+Manas Gaur – KAI² – Knowledge-infused AI and Inference
+
+Tim Oates – CORAL – Cognition Robotics and Learning Lab
+
+Ryan Robucci – Covail Lab
+
+Ramana Kumar Vinjamuri – Vinjamuri Lab 
+
+Mohamed Younis – ESNET – Embedded Systems and Networks Laboratory
+
+Natural Language Processing (NLP)
+
+Natural Language Processing (NLP) is an interdisciplinary field that lies at the intersection of computer science, artificial intelligence, and linguistics. It focuses on the interaction between computers and humans through natural language—or the computational processing of human-human communication, aiming to enable machines to understand, interpret, and generate human language in a manner that is both meaningful and useful. Although definitions might vary, the broadest definition of NLP encompasses textual processing & understanding as well as speech processing (speech recognition/analysis/synthesis), natural language generation (NLG), computational linguistics (using computational techniques to study human languages), and social computing (social media analysis). Many modern NLP techniques leverage machine learning and deep learning, seeking to bridge the gap between human communication and computer understanding. As an evolving field, NLP continues to grow in importance with the increasing volume of unstructured data and the rising use of large language models (LLMs) like ChatGPT. NLP can include a variety of tasks such as text analysis, translation, and summarization. (Description edited from GPT-4o output using the prompt “Please provide a paragraph describing the field of natural language processing.”)
+
+NLP Research at UMBC has included, but is not limited to:
+
+Grounded understanding of events
+Safe usage of LLMs via neuro-symbolic methods
+NLP and robotics
+Applications for text generation
+Reasoning with extracted representations from text
+Social computing
+Multimodal Learning (vision and language)
+Research Faculty and Labs
+
+Sanorita Dey – Social Intelligence Lab
+
+Frank Ferraro
+
+Tim Finin
+
+Manas Gaur – KAI² – Knowledge-infused AI and Inference
+
+Tejas Gokhale – Cognitive Vision Group
+
+Lara J. Martin – LARA Lab
+
+Cynthia Matuszek – IRAL
+
+Tim Oates – CORAL – Cognition Robotics and Learning Lab
+
+ 
+
+Centers
+CARTA – Center for Accelerated Real-Time Analytics
+
+Director: Dr. Karuna Joshi
+
+An NSF-sponsored IUCRC center focused on cutting-edge inter-disciplinary research in real-time analytics using next-generation accelerated hardware.
+
+Centaνr – Center for Navigation, Time and Frequency Research
+
+Director: Dr. Curtis Menyuk
+
+CENTAUR was established in 2022 to support rapidly evolving and critical Army Position, Navigation, and Timing (PNT) needs. UMBC has teamed with the National Center for Manufacturing Sciences (NCMS) under a national consortium to develop an Integrated photonics center to address this rising need.
+
+UCYBR – UMBC Center for Cybersecurity
+
+Director: Dr. Anupam Joshi
+Assistant Director: Dr. Richard Forno
+
+The UMBC Center for Cybersecurity is an interdisciplinary university center that unifies UMBC’s many cybersecurity capabilities. It provides Maryland and the nation with academic and research leadership, collaboration, innovation, and outreach in this critical discipline by streamlining our academic, research, workforce development, and technology incubation activities to advance UMBC’s position as a leading research university in cybersecurity-related disciplines.
+
+UMBC Center for Artificial Intelligence
+
+Director: Dr. Tim Finin
+
+The UMBC Center for AI is an interdisciplinary center to support, promote, and develop UMBC communities doing research, application, and education in all areas of Artificial Intelligence.
+
+BRAIN – Building Reliable Advances and Innovations in Neurotechnology
+
+Director: Dr. Ramana Vinjamuri
+Co-Directors: Dr. Tulay Adali, Dr. Nilanjan Banerjee, Dr. Fow-Sen Choa, and Dr. Don Engel
+
+The BRAIN Center aims to tackle challenges in neurotechnology by bringing together experts in a wide range of topics, from neural, cognitive, and rehabilitation engineering to neurorobotics, neuromodulation, and ethical artificial intelligence. As an Industry–University Cooperative Research Center (I/UCRC), it emphasizes academic research conducted jointly with innovative industry partners, and UMBC’s location will facilitate cooperation with biomedical companies."
+AI,https://www.csee.umbc.edu/research/research-labs/,Research Laboratories,"Research Centers and Laboratories
+Computer Science
+CDL – Cyber Defense Lab
+
+Director: Dr. Alan T. Sherman
+Office No. : ITE 224, Lab No. : ITE 228
+
+The UMBC Cyber Defense Lab (CDL) is a place where students, faculty, and affiliates carry out cybersecurity research. Current projects include high-integrity voting, protocol analysis, and cybersecurity education.
+
+CORAL – Cognition Robotics and Learning Lab
+
+Director: Dr. Tim Oates
+Office No. : ITE 336, Lab No. : ITE 361
+
+Research in topics related to machine and human intelligence, including machine vision, natural language processing, and reinforcement learning. The long-term goal is to understand how machines can match the human developmental trajectory from sensors to symbols to semantics. Current projects include sample efficient reinforcement learning for the real world, safe artificial intelligence, graph neural networks for anomaly detection in learned models, and multi-modal learning from images and text.
+
+CVG – Cognitive Vision Group
+
+Director: Dr. Tejas Gokhale
+Office No.: ITE 214, Lab No.: ITE 368
+
+The Cognitive Vision Group works on the conceptual characterization of visual scenes, broadly in the areas of computational perception, learning, and reasoning. Areas of innovation include visual understanding in the absence of complete information; adapting and generalizing to new concepts, contexts, domains, environments, and tasks; extrapolation across space and time; interpreting and predicting behavior; acquisition and communication of visual knowledge from/with/to other agents and humans.
+
+DAMS – Data Management and Semantics
+
+Director: Dr. Roberto Yus
+Office No. : ITE 342, Lab No. : ITE 230
+
+he UMBC DAMS Research Group focuses on four main areas of research: Data Management, AI, Privacy, and the Internet of Things. We deal with research challenges in bridging the gap that exists between raw data (e.g., data captured by sensors) and semantically meaningful data that is easily understood by people (e.g., inferences extracted from sensor observations). We incorporate semantics and privacy-awareness to data management to design smarter and more responsible systems. Also, we develop prototypes of the approaches/systems designed as part of the research tasks and deploy them in the real world.
+
+DREAM – Discovery, Research, and Experimental Analysis of Malware Lab
+
+Director: Dr. Charles Nicholas
+Office No. : ITE 356, Lab No. : ITE 366
+
+The DREAM lab looks at ways of applying machine learning to cybersecurity, and malware analysis in particular. Recent projects involve using tensor decomposition and innovative measures of string similarity to solve practical problems. The lab is also home to UMBC’s very active cyberdefense competition team, the ‘CyberDawgs’
+
+Ebiquity Research Laboratory
+
+Director: Dr. Anupam Joshi
+Office No. : ITE 328, Lab No. : ITE 332
+
+Director: Dr. Tim Finin
+Office No. : ITE 329, Lab No. : ITE 332, ITE 338
+
+Building intelligent systems in open, heterogeneous, dynamic, distributed environments. Research topics include the semantic web, information extraction, mobile computing, privacy, and security.
+
+ESNET – Embedded Systems and Networks Laboratory
+
+Director: Dr. Mohamed Younis
+Office No. : ITE 325 G, Lab No. : ITE 391
+
+Design and management of wireless sensor networks, network architecture and protocols, underwater communication, MAC and routing protocols for ad-hoc and sensor networks, energy-aware system design, secure communication, fault tolerance, topology management, and applications of sensor and actuator networks.
+
+FSI – Future Sensing and Interaction Lab
+
+Director: Dr. Dong Li
+Office No. : ITE 355, Lab No. : ITE 230
+
+The Future Sensing and Interaction Lab is dedicated to advancing the fields of mobile, wearable, and ubiquitous computing. The lab’s core mission is to design and develop innovative sensing systems that address critical societal challenges, particularly in healthcare, human-computer interaction, and environmental sustainability. Our research integrates expertise in mobile computing, wireless and wearable sensing, multi-modal sensing, smart health technologies, and AI for IoT. We are committed to creating cutting-edge solutions that bridge the gap between advanced technological developments and real-world applications. At the FSI Lab, we envision a future where technology plays a transformative role in promoting a more equitable and sustainable world.
+
+IRAL – Interactive Robotics and Language Laboratory
+
+Director: Dr. Cynthia Matuszek
+Office No. : ITE 331, Lab No. : ITE 343
+
+Research in robotics, human-robot interaction, and grounded language understanding, bringing together robotics, natural language processing, and statistical learning approaches to build advanced intelligent agents that can interact robustly with non-specialists.
+
+KAI² – Knowledge-infused AI and Inference
+
+Director: Dr. Manas Gaur
+Office No. : ITE 337, Lab No. : ITE 367
+
+KAI² believes in the integration and uplifting of AI with human knowledge representable in different forms: Structural Knowledge Graphs, Flattened Lexicons, Process Knowledge in Questionnaires, and Commonsense in General-purpose unstructured content, to design human-centered systems and applications for sensitive domains. Furthermore, we want to make the next-generation neuro-symbolic AI approach inspired by human’s ability to combine data and knowledge to induce Explainable, Interpretable, and Safety aspects in statistical AI.
+
+LARA Lab
+
+Director: Dr. Lara J. Martin
+Office No. : ITE 216, Lab No. : ITE 368
+
+In the LARA Lab, we look at using and improving language tools to make better, human-centered artificial intelligence (AI) by looking at how people communicate and creating computer-supported human communication tools. We pull together techniques from natural language processing (NLP), cognitive science, and AI to create agents that tell stories and play Dungeons & Dragons, speak expressively, and aid accessibility in human-human communication.
+
+Social Intelligence Lab
+
+Director: Dr. Sanorita Dey
+Office No. : ITE 357, Lab No. : ITE 339
+
+In the Social Intelligence Lab, we explore a variety of social computing topics. Our primary goal is to understand how people engage with complex systems and to design user-centric systems and platforms that address the perceptions of our target audience. Currently, we are focusing on areas such as accessible health monitoring, equitable and sustainable STEM education, and the application of large language models to foster ethical and responsible social opinions. Students in our lab publish their research in prestigious international conferences, including CHI, CSCW, GROUP, IUI, and iTICSE.
+
+TAIC – Trustworthy and Intelligent Computing
+
+Director: Keke Chen
+Office No. : ITE 360, Lab No. : ITE 345
+
+The TAIC lab studies security and privacy issues with AI and collaborative systems, confidential computing, and applications of AI in science.
+
+VANGOGH – Visualization, Animation, Non-Photorealistic Graphics, Object Modeling, and Graphics Hardware
+
+Director: Dr. Adam Bargteil
+Office No. : ITE 341, Lab No. : ITE 365
+
+Director: Dr. Marc Olano
+Office No. : ITE 354, Lab No. : ITE 352, 365
+
+The VANGOGH lab covers a range of research in computer graphics and animation. Computer graphics research focuses on real-time approaches using graphics hardware, particularly in areas of visual appearance, data visualization, and techniques applicable to computer games. Animation research focuses on natural phenomena, including physics-based techniques, numerical methods, and machine learning.
+
+Vinjamuri Lab
+
+Director: Dr. Ramana Vinjamuri
+Office No. : ITE 301, Lab No. : ITE 376
+
+Our lab studies Brain-Machine Interfaces (BMIs) that control upper-limb prostheses. In particular, we are interested in how the brain controls complex hand movements. The human hand has about 30 dimensions in contrast to a human arm with only 7 dimensions. BMIs that control human arms have already been demonstrated with decent accuracy. What type of interface is needed to Extend Brain-Machine Interface control from 7 to 37 dimensions forms the central topic of our research. Our lab contains a mix of current Graduate, Undergraduate, and Highschool Students along with a range of collaborators from multiple industries. Our range of publications dating back to 2014 includes multiple Patents, Articles, Conference Appearances, and more. Our work has been recognized through many Showcases, Grants, and Awards alongside our students who continue to impress.
+
+Computer Engineering
+ECLIPSE Cluster
+
+Director: Dr. Nilanjan Banerjee
+Office No. : ITE 362, Lab No. : ITE 351
+
+Director: Dr. Ryan Robucci
+Office No. : ITE 319, Lab No. : ITE 317
+
+The ECLIPSE cluster comprises groups with shared laboratories, projects, and students: the Mobile, Pervasive, & Sensor Systems Laboratory led by Dr. Nilanjan Banerjee, and the Covail Analog & Digital Systems Research Laboratory, led by Dr. Ryan Robucci
+
+ESNET – Embedded Systems and Networks Laboratory
+
+Director: Dr. Mohamed Younis
+Office No. : ITE 325 G, Lab No. : ITE 391
+
+Design and management of wireless sensor networks, network architecture and protocols, underwater communication, MAC and routing protocols for ad-hoc and sensor networks, energy-aware system design, secure communication, fault tolerance, topology management, and applications of sensor and actuator networks.
+
+SECRETS – SECure, REliable, and Trusted Systems
+
+Director: Dr. Naghmeh Karimi
+Office No. : ITE 314, Lab No. : ITE 210
+
+Our focus is primarily on the design, security, trustworthiness, reliability, and testability of electronic chips, particularly digital circuits. We concentrate on Hardware Security and Design-for-Trust, Fault Tolerance and Design-for-Reliability, Hardware Testing and Design-for-Testability, Machine Learning for security applications, the security of machine learning accelerators, and the design of VLSI circuits.
+
+Additionally, to ensure long-lasting security for cryptographic devices against physical attacks (such as side-channel analysis and fault injection), our lab develops countermeasures that remain effective as the device ages.
+
+We also focus on ensuring data integrity within IoT frameworks and protecting them against impersonation, replay, and other conventional attacks by developing lightweight authentication schemes. Furthermore, we design security protocols for the safe and secure transmission of data between patients’ wearable or implanted devices and healthcare providers.
+
+VLSI-SOC Group
+
+Director: Dr. Riadul Islam
+Office No. : ITE 316, Lab No. : ITE 313
+
+The primary research areas include Electronic Design and Automation, Brain-inspired computing, Neural network architecture exploration, Autonomous driving and CAN security, digital, analog, and mixed-signal CMOS ICs/SOCs for a variety of applications, Verification and testing techniques, CAD tools for design and analysis of microprocessors and FPGAs, as well as interdisciplinary research projects.
+
+Electrical Engineering
+CASPR – Center for Advanced Studies in Photonics Research
+
+Director: Dr. Anthony Johnson
+Office No. : TRC 029, Lab No. : TRC 027
+
+Advanced photonics research and technology development in optical communications, optical sensing and devices, nanophotonics, biophotonics, and quantum optics.
+
+Choa’s Lab
+
+Director: Dr. Fow-Sen Choa
+Office No. : ITE 303, TRC 274, Lab No. : TRC 018, 151, 153, 155, 156, 159, 291, 292, 293
+
+The lab is developing novel transcranial magnetic stimulation coils for multisite brain stimulations, extracting brain signals with designed experiments using EEG tools, studying brain dynamics and neural disorders from analyzing fMRI scanned data sets, and building human level intelligent systems through neural network architecture design and modelling. We also continue our research on design, growth and fabrication of photonic and nano-materials and devices including single photon detectors, photonic integration of tunable lasers and detector, mid-IR devices and arrays, meta-materials, phase changing materials, neuromorphic and neural computing devices for AI chips.
+
+Computational Photonics Laboratory
+
+Director: Dr. Curtis Menyuk
+Office No. : ITE 304, Lab No. : TRC 200, 201, 202, 203, 204, 205
+
+Assistant Director: Dr. Ergun Simsek
+Office No. : ITE 325 K, Lab No. : TRC 201 B
+
+Computational and theoretical studies of nonlinear optics, RF photonics, and frequency combs. We investigate nonlinear effects in optical fibers including soliton generation and transmission, supercontinuum generation, and four wave mixing. We study frequency comb generation in fiber lasers and microresonators and the noise processes that limit the performance of these devices and the overall system performance. We also study photodetectors, sensors, motheye surfaces, and other components that play an important role in photonic transmission and RF photonics. We use modern machine learning algorithms to optimize the performance of the RF-photonic devices and systems as well as the frequency comb systems that we investigate.
+
+MLSP-Lab – Machine Learning for Signal Processing Laboratory
+
+Director: Dr. Tulay Adali
+Office No. : ITE 324, Lab No. : ITE 363
+
+Our focus is the development of theory and tools for processing of signals that arise in today’s growing array of different applications and pose challenges for traditional signal processing techniques. We bring in techniques from statistical and adaptive signal processing as well as machine learning to develop effective methods to address challenges in a wide array of applications with a focus on medical image analysis and fusion.
+
+Remote Sensing Signal and Image Processing Laboratory
+
+Director: Dr. Chein-i Chang
+Office No. : ITE 310, Lab No. : ITE 370
+
+Research on remote sensing, signal and image processing, specifically, hyperspectral imaging, medical imaging, and automatic target recognition."
+AI,https://ai.umbc.edu/,UMBC Center for Artificial Intelligence,"The UMBC Center for AI is an interdisciplinary center established at the University of Maryland, Baltimore County in 2024 to support and promote its communities conducting research, application, and education in all areas of Artificial Intelligence.
+
+UMBC has had an artificial intelligence presence since the mid-1980s when Dr. Sanjeev Ahuja completed his dissertation on applying abductive reasoning to analyzing and classifying errors in discrete sequential processes.
+
+UMBC has more than 50 faculty members with research interests in AI and related areas, including robotics, machine learning, natural language understanding, data science, image processing, multi-agent systems, large language models, knowledge representation and reasoning, planning, knowledge graphs, and neural networks. These faculty members work in 25 laboratories and research centers and teach many AI-related courses across departments and disciplines.
+
+You can follow news about the UMBC Center for AI on social media through its sites on LinkedIn, X, and Facebook.
+
+Members of the UMBC community can subscribe to the UMBC AI Group to receive email about AI-related news and events. 
+
+If you have news to share with the UMBC AI community or suggestions or comments on the site, please send them to umbc-ai@cs.umbc.edu."
+AI,https://ai.umbc.edu/ai-faculty/,Faculty,"Brain-computer interfaces could let people control robotic arms by thought alone. Ramana Vinjamuri, CC BY-ND
+
+ 
+
+UMBC has more than 50 faculty and senior research staff associated with the UMBC Center for Artificial Intelligence, whose research includes work on AI-related problems and techniques. They come from departments, centers, and institutes across UMBC and represent many disciplines.
+
+Tülay Adali (CSEE): machine learning for signal processing and bioinformatics
+Nilanjan Banerjee (CSEE): smart cyber-physical systems, robotics, manufacturing
+Justin Brooks (CSEE): computational and behavioral neuroscience, medical applications of AI
+Chien I. Chang (CSEE): remote sensing, image processing
+Ansu Chatterjee (Math & Statistics): Foundations of data sciences, ethical AI, Bayesian and conditional inference, digital twins and personalized healthcare, climate analytics
+Keke Chen (CSEE): Privacy and security of AI, data mining/machine learning, and distributed systems
+Lujie (Karen) Chen (IS): multimodal learning analytics, machine learning, data science, medical informatics
+Zhiyuan Chen (IS): data mining, adversarial learning, semantic information
+Jim Clavin (Hilltop): AI for healthcare informatics, byzantine fault tolerance, knowledge graphs, generative AI
+Mohammad ‘Khash’ Donyaee (CSEE, Lecturer): AI, machine learning
+Abhijit Dutt (CSEE, Professor of Practice): data science, AI, machine learning
+Don Engel (CSEE, VP Research): visualization, computer vision, NLP
+Frank Ferraro (CSEE): natural language understanding (NLP), machine learning
+Tim Finin (CSEE): Knowledge graphs, knowledge representation and reasoning, human language technology, AI
+James Foulds (IS): socially conscious machine learning and artificial intelligence
+Manas Gaur (CSEE): Knowledge graphs and machine learning for NLP, recommender systems, and computational social data science
+Md Osman Gani (IS): explainable AI, ubiquitous computing, indoor localization, healthcare, and human activity recognition
+Aryya Gangopadhyay (IS): data mining, healthcare analytics
+Matthias Gobbert (Math): Machine learning, big data applications in science & engineering, parallel algorithms for computing clusters
+Ankit Goel (ME): control systems, data-driven learning for complex control systems.
+Tejas Gokhale (CSEE): computer vision, machine learning, reasoning
+Milton Halem (CSEE): Big data for climate, quantum computing for AI
+Morgan Henderson (Hilltop): predictive modeling and causal inference using administrative health data for populations in Maryland
+Riadul Islam (CSEE): Robust, secured IC design for neuromorphic computing and machine learning applications
+Vandana Janeja (IS): data science, data mining, anomaly detection
+Ben Johnson (CSEE, Lecturer): AI, NLP, machine learning
+Tyler Josephson (CBEE): AI, logic, machine learning, molecular simulation, applications in chemical and environmental engineering
+Anupam Joshi (CSEE, Dean): AI for cybersecurity & cyber-physical systems, Web/text analysis, semantic web, neural networks
+Karuna Joshi (IS): data science,  knowledge graphs, regulatory and legal AI, data security and privacy compliance, cloud computing
+Kostas Kalpakis (CSEE): data science, algorithms for knowledge graphs, machine learning
+George Karabatis (IS): data science, semantic information integration, machine learning
+Seung-Jun Kim (CSEE):  machine learning, applications to communications, future power systems, and big data analytics
+Andrea Kleinsmith (IS): affective computing and human-computer interaction
+Dong Li (CSEE): Wireless Sensing, Mobile Computing, Wearable Sensing, Multi-model Sensing, Smart Health
+Chenchen Liu (CSEE): high-performance computing for AI, machine learning
+Christine Mallinson (LLC): identifying linguistic bias and misinformation
+Christopher Marron (CSEE), Professor of Practice): machine learning, data science
+Lara Martin (CSEE): Human‑centered AI, computational creativity, language understanding, neuro-symbolic methods, speech processing, affective computing, conversational agents
+Cynthia Matuszek (CSEE): robotics, human-robot interaction, machine learning, NLP, cybersecurity
+Eric Millikin (Visual Arts): AI and art, virtual reality
+Charles Nicholas (CSEE): machine learning and data science  for malware detection, intelligent information systems
+Thu Nguyen (Math): machine learning, stochastic approximation
+Timothy Nohe (Visual Arts): natural language image, video & music generation; ethical and fair use of these tools, visual biases & tropes in AI image generation.
+Tim Oates (CSEE): machine learning, AI
+Patti Ordóñez (IS): machine learning, data mining, and visualization to multivariate time series analysis, clinical informatics, biomedical data science
+Shimei Pan (IS): NLP, machine learning, data mining
+Sanjay Purushotham (IS): machine learning for healthcare
+Nirmalya Roy (IS): machine learning for mobile, pervasive, and sensor computing, autonomous systems
+Jinglai Shen (Math): machine learning, optimization
+John Schumacher (Sociology, Anthropology, and Public Health): generative AI, pedagogy, gerontology, healthcare delivery
+Ergun Simsek (CSEE): machine learning for applications in photonics and electromagnetics
+Jennifer Sleeman (CSEE): NLP, document understanding, machine learning
+KMA Solaiman (CSEE):  machine learning, multimodal data management; applications to data discovery, multimodal information retrieval, uncertainty management, recommender systems, NLP, video feature extraction
+Houbing Herbert Song (IS): AI/machine learning/big data analytics for cyber-physical systems/IoT, cybersecurity, and privacy
+Eric J. Stokan (Political Science): NLP, ML, and LLMs for the social sciences
+Ramana Vinjamuri (CSEE) brain-computer interfaces, machine learning, signal processing
+Jianwu Wang (IS): data science for climate and manufacturing
+Mohamed Younis (CSEE): Machine learning for communications, networks, and embedded systems
+Ali Yousuf (CSEE): AI, machine learning, and data science for healthcare applications
+Meilin Yu (ME): Computational fluid dynamics, scientific machine learning, high-performance computing
+Roberto Yus (CSEE): knowledge representation and reasoning, knowledge graphs, IoT, privacy, semantic data management
+Rebecca Williams (CSEE): immersive media, data visualization, computer vision, computer graphics, brain-computer interface, wearable sensor technology, imaging, and remote sensing"
+AI,https://ai.umbc.edu/labs-groups/,Research Labs,"Helena Mentis demonstrates tools that she uses in her HCI lab. Photo by Marlayna Demond ’11 for UMBC.
+
+There are many research labs and centers at UMBC that are focused on artificial intelligence or use AI technologies in their projects. These labs and centers are associated with the UMBC AI Center and are part of departments in all of UMBC’s Colleges.
+
+ATOMS Lab
+
+The AI & Theory-Oriented Molecular Science Lab is headed by Tyler Josephson in CBEE. Chemistry’s fundamental building are atoms; from their interactions emerge molecules, materials, and their properties. In logic, basic assumptions are also called atoms; proofs, lemmas, and theorems are derived from these. The ATOMS Lab brings together chemical engineers, computer scientists, and mathematicians to equip computers to reason about and discover theories in molecular science.
+
+Big Data Analytics Lab
+
+The Big Data Analytics Lab is led by Jianwu Wang in Information Systems and studies different aspects of big data analytics, including scalable causality analytics, scalable data aggregation, and anomaly detection, with current applications focusing on climate and manufacturing. We integrate techniques in distributed computing, data mining, and machine learning and work with academic and industry collaborators to achieve multidisciplinary research and social impacts.
+
+Causal AI Lab Lab
+
+Headed by Md Osman Gani, the CAIL lab studies causal inference, machine learning, and AI methods to contribute to a deeper understanding of the cause and context in data-intensive healthcare and ubiquitous computing environments. It’s work is collaborative and interdisciplinary and focuses on societal impacts with applications in healthcare, pervasive computing, rehabilitation engineering, occupational science, and more.
+
+Computational Mechanics Laboratory
+
+Professor MeIlin Yu’s Computational Mechanics Lab works on computational fluid dynamics, scientific machine learning, and high-performance computing. A current project, for example, uses reinforcement learning to develop computational fluid dynamics algorithms for large eddy simulation of turbulent flows.
+
+Center for Realtime Distributed Sensing and Autonomy
+
+The Center for Realtime Distributed Sensing and Autonomy (CARDS) was established in 2021 to develop cutting-edge technologies towards the betterment of society and field robotics. A Project funded by the Army Research Laboratory collaborated with the University of Maryland College Park, Bowie State University, and the Army Research Laboratory.
+
+Computing Compass Lab
+
+Prof. Chenchen Liu leads the Computing Compas Lab, which develops novel computing paradigms for high-performance intelligence computing and explores innovations in AI’s algorithm, architecture, system, and circuit designs. Its research topics cover novel computer architecture and hardware for AI, neuromorphic computing, deep learning, edge computing, and VLSI design with emerging technologies.
+
+Center for Research in Emergent Manufacturing
+
+Prof. Nilanjan Banerjee leads the Center for Research in Emergent Manufacturing which does research on Digital Manufacturing, incuding developing smart and secure cyber-physical manufacturing systems and supply chains.
+
+Data Management & Semantics Group
+
+DAMS, led by Roberto Yus, focuses on four areas of research: Data Management, AI, Privacy, and the Internet of Things. It deals with the challenges in bridging the gap between raw data (e.g., from sensors) and semantically meaningful data easily understood by people (e.g., inferences extracted from sensor data). it incorporates semantics and privacy awareness into data management to design smarter and more responsible systems, develop prototypes and deploys them in the real world.
+
+Dream Lab
+
+The DREAM lab led by Charles Nicholas looks at ways of applying machine learning and AI to cybersecurity, and malware analysis in particular. Recent projects involve using tensor decomposition and innovative measures of string similarity to solve practical problems. The lab is also home to UMBC’s very active cyber defense competition team, the ‘CyberDawgs’
+
+Ebiquity Research Group
+
+The Ebiquity Research Group consists of faculty and students from the CSEE and IS departments. Its research covers the application of AI to many areas, including natural language understanding, information extraction from text, mobile and pervasive computing, knowledge representation and reasoning, knowledge graphs, multi-agent systems, privacy, and cybersecurity.
+
+Estimation, Control & Learning Laboratory
+
+ECCL research is focused on developing data-driven, learning-based control and estimation techniques for mechanical and aerospace engineering problems. We use tools from linear and nonlinear system theory, linear and nonlinear control theory, optimization, and learning theory to design and develop novel algorithms for control and estimation problems in complex dynamic systems, including applications in robotics, autonomous systems, and UAVs.
+
+Informatics for Human Flourishing Lab
+
+The Informatics for Human Flourishing Lab works to create data-enabled human-centered technology and systems that promote human flourishing. It explores the fundamental data analytics/machine learning/AI methods that could solve practical problems, complemented by human-centered approaches using a mixture of quantitative and qualitative methods.
+
+Interactive Robotics and Language Lab
+
+IRAL is led by Cynthia Matuszek. It studies robotics and natural language processing to develop robots that everyday people can talk to, telling them to do tasks or about the world around them. This grounded language acquisition approach supports the goal of building robots that can perform tasks in noisy, real-world environments instead of being preemptively programmed to handle a fixed set of predetermined tasks.
+
+Knowledge, Analytics, Cognitive, and Cloud Computing lab
+
+The KnACC lab is led by Karuna Joshi from the Information Systems department and aims to address challenging issues at the intersection of Data Science and Cloud Computing.
+
+KAI² – Knowledge-infused AI and Inference
+
+KAI² is led by Manas Gaur and works on the integration and uplifting of AI with human knowledge representable in different forms: Structural Knowledge Graphs, Flattened Lexicons, Process Knowledge in Questionnaires, and Commonsense in General-purpose unstructured content, to design human-centered systems and applications for sensitive domains. It aims to make the next-generation neuro-symbolic AI approach inspired by humans’ ability to combine data and knowledge to induce Explainable, Interpretable, and Safety aspects in statistical AI.
+
+Lab for Healthcare Engineering
+
+The Laboratory for Healthcare Engineering is headed by Dr. Muhammad Ali Yousuf. It focuses on machine learning and AI applied to the analysis of health insurance data, medical image processing using DeepLearning and AI, the ethics of Artificial Intelligence in general and in relation to medical data and devices, and generative AI in the classroom.
+
+Language, Aid, and Representation AI Lab
+
+Professor Lara Martin leads the Language, Aid, and Representation AI Lab. Its research focuses on human-centered artificial intelligence and natural language processing applications. Recent work has included automated story generation, augmentative and alternative communication tools, AI for tabletop role-playing games, speech processing, and affective computing.
+
+The Latent Lab
+
+James Foulds heads the Latent Lab in the IS department. It carries out research in the area of socially conscious machine learning and artificial intelligence. Its work aims to improve AI’s role in society regarding fairness and privacy and to promote the practice of computational social science using probabilistic models and Bayesian inference.
+
+Machine Learning for Signal Processing
+
+Tulay Adali’s Machine Learning for Signal Processing Lab works on the development of theory and tools for processing signals that arise in today’s growing array of different applications and pose challenges for traditional signal processing techniques. It applies techniques from statistical and adaptive signal processing as well as machine learning to develop effective methods that address challenges in applications with a focus on medical image analysis and fusion.
+
+Mobile, Pervasive & Sensor Computing Lab
+
+Nirmalya Roy directs the Mobile, Pervasive, and Sensor Computing (MPSC) Lab, which efficiently analyzes data from sensors and mobile devices, uncovers hidden patterns, gauges users’ activity, behavior, and interaction, and presents this to users, society, or applications to better understand human and system behavior.
+
+Multi Data Lab
+
+Vandana Janeja’s lab has a grant portfolio across multiple projects, leading to significant societal impacts. Multi-domain relevance is evident in all social impact areas, such as climate change and misinformation detection. Data is often multi-resolution, collected with multi-modal mechanisms, multi-dimensional, and comes from multiple disciplines. The lab deals with the heterogeneity in multiple aspects of data, working across disciplines, leading to social impact.
+
+NLP and Social Computing Lab
+
+The NLP and Social Computing is led by Shimei Pan and focuses on natural language processing (NLP), large-scale social media analytics, Human-AI interaction and societal Impact, and Intelligent Interactive systems
+
+Cognitive Vision Group
+
+Directed by Tejas Gokhale, the Cognitive Vision Group works on the conceptual characterization of visual scenes, broadly in the areas of computational perception, learning, and reasoning. Areas of innovation include visual understanding in the absence of complete information; adaptating and generalizing to new concepts, cotexts, domains, environments, and tasks; extrapolation across space and time; interpreting and predicting behavior; acquisition and communication of visual knowledge from/with/to other agents and humans.
+
+Remote Sensing, Signal & Image Processing
+
+Professor Chein-I Chang founded the RSSIPL Lab in 1992. Its research focuses on remote sensing, signal and image processing, specifically hyperspectral imaging, medical imaging, and automatic target recognition.
+
+SONG Lab
+
+The Security and Optimization for Networked Globe Lab is led by Houbing Herbert Song and has the mission to advance research and education through discovery and innovation at the confluence of AI/machine learning/data science, cybersecurity, and cyber-physical systems (CPS).
+
+Trustworthy and Intelligent Computing Lab
+
+Professor Keke Chen’s Trustworthy and Intelligent Computing Lab covers security and privacy issues in AI, data mining and scalable learning algorithms, social data analytics, learning to rank and domain adaptation, and cloud computing and distributed systems.
+
+Vinjamuri Lab
+
+The Vinamuri Lab studies Brain-Machine Interfaces (BMIs) that control upper-limb prostheses. A current research objective is understanding how the brain controls complex hand movements. The human hand has about 30 dimensions, compared to the human arm, which has only seven. BMIs that control human arms have already been demonstrated with decent accuracy.
+
+VLSI-SOC Group
+
+The primary research areas include Electronic Design and Automation, Brain-inspired computing, Neural network architecture exploration, Autonomous driving and CAN security, digital, analog, and mixed-signal CMOS ICs/SOCs for a variety of applications, Verification and testing techniques, CAD tools for design and analysis of microprocessors and FPGAs, and interdisciplinary research projects."
+AI,https://cybersecurity.umbc.edu/training/labs/,Research Centers & Labs,"Research Centers
+Center for Accelerated Real Time Analytics (CARTA)
+
+CARTA is an NSF sponsored IUCRC center focused on cutting edge inter-disciplinary research in real time analytics using next generation accelerated hardware.
+
+Real time analytics is the leading edge of a smart data revolution, pushed by Internet advances in sensor hardware on one side and AI/ML streaming acceleration on the other. CARTA explores the realm streaming applications of Magna Analytics. The center works with next-generation hardware technologies, like the IBM Minsky with onboard GPU accelerated processors and Flash RAM, and smart cyber-physical sensor systems to build cognitive analytics systems and active storage devices for real time analytics. This will lead to the automated ingestion and simultaneous analytics of Big Datasets generated in various domains including cybersecurity, gealthcare, Internet of Things (IoT) and the scientific arena, and the creation of self learning, self correcting “smart” systems.
+
+Center for Real-time Distributed Sensing and Autonomy (CARDS)
+
+The vision of CARDS is to advance AI-based autonomy in order to deliver safe, effective, and resilient new capabilities across a variety of complex mission types, including search-and-rescue, persistent surveillance, managing, adapting and optimizing smart, connected robots and machinery, and augmenting humans in performing complex analytical and decision-making tasks. These systems are continually getting better, but to achieve their potential, there are still numerous developments required to improve their capability, command and control, interoperability, resiliency and trustworthiness. Inaugural Funding for CARDS is from the  Army Research Lab for the period 2021-2026.
+
+Research Labs and Groups
+Cyber Defense Lab
+
+Director: Dr. Alan Sherman
+Office No. : ITE 224, Lab No. : ITE 228
+
+The Cyber Defense Lab (CDL) is the primary cybersecurity research lab within the CSEE department led by Dr. Alan Sherman.  Among other things, CDL hosts an isolated environment where students can research topics that would normally be considered too dangerous or disruptive to network and system resources or to be investigated in other computer labs. CDL meets bi-weekly to host student/faculty presentations on current research and trends.
+
+DAta Management & Semantics (DAMS) Research Group
+
+Director: Dr. Roberto Yus
+Office No. : ITE 342, Lab No. : ITE 230
+
+The UMBC DAMS Research Group focuses on four main areas of research: Data Management, AI, Privacy, and the Internet of Things. We deal with research challenges in bridging the gap that exists between raw data (e.g., data captured by sensors) and semantically meaningful data that is easily understood by people (e.g., inferences extracted from sensor observations). We incorporate semantics and privacy-awareness to data management to design smarter and more responsible systems. Also, we develop prototypes of the approaches/systems designed as part of the research tasks and deploy them in the real world.
+
+Discovery, Research, and Experimental Analysis of Malware Lab (DREAM)
+
+Director: Dr. Charles Nicholas
+Office No. : ITE 356, Lab No. : ITE 366
+
+The DREAM lab looks at ways of applying machine learning to cybersecurity, and malware analysis in particular. Recent projects involve using tensor decomposition and innovative measures of string similarity to solve practical problems. The lab is also home to UMBC’s very active cyberdefense competition team, AKA the ‘CyberDawgs’.
+
+ebiquity
+
+Director: Dr. Anupam Joshi
+Office No. : ITE 328, Lab No. : ITE 332
+
+Director: Dr. Tim Finin
+Office No. : ITE 329, Lab No. : ITE 332, ITE 338
+
+ebiquity’s research explores the interactions between mobile and pervasive computing, the (semantic) web and web 2.0/3.0/4.0, multi-agent systems and artificial intelligence, security/privacy/trust, and services. Group members have research interests in areas such as distributed systems, wireless networking, pervasive/mobile systems, ad-hoc networks, knowledge representation and reasoning, data management and databases, information retrieval, machine learning, personalization, security and privacy, web/data-mining, multi-agent systems and HPCC. Lab research is driven by applications in the e-sevices area — context aware environments (meeting rooms, surgical suites), social media and blogosphere, wireless web, VANETs, e-commerce and m-commerce, etc.
+
+ECLIPSE Cluster
+
+Director: Dr. Nilanjan Banerjee
+Office No. : ITE 362, Lab No. : ITE 351
+
+Director: Dr. Ryan Robucci
+Office No. : ITE 319, Lab No. : ITE 317
+
+The ECLIPSE Cluster comprises groups with shared laboratories, projects, and students: the Mobile, Pervasive, & Sensor Systems Laboratory led by Dr. Nilanjan Banerjee, and the Covail Analog & Digital Systems Research Laboratory, led by Dr. Ryan Robucci.
+
+ESNET – Embedded Systems and Networks Laboratory
+
+Director: Dr. Mohamed Younis
+Office No. : ITE 325 G, Lab No. : ITE 391
+
+Design and management of wireless sensor networks, network architecture and protocols, underwater communication, MAC and routing protocols for ad-hoc and sensor networks, energy-aware system design, secure communication, fault tolerance, topology management, and applications of sensor and actuator networks.
+
+Knowledge, Analytics, Cognitive And Cloud Lab (KnACC)
+
+Director: Dr. Karuna Pande Joshi
+Office No. : ITE 424, Lab No. : ITE 4C7B
+
+KnACC lab in the Information Systems Department aims to address challenging issues at the intersection of data science and cloud computing, to include cybersecurity.
+
+Trustworthy and Intelligent Computing Lab (TAIC)
+
+Director: Dr. Keke Chen
+Office No. : ITE 360
+
+TAIC focuses on security and privacy issues in AI, data mining and scalable learning algorithms; social data analytics; and cloud computing and distributed systems. Its research projects have been supported by NSF, NIH, Northwestern Mutual Data Science Institute, Air Force Research Lab, AFOSR, Yahoo!, Amazon, and the Ohio Board of Regents."

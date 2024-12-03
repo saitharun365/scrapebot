@@ -1,0 +1,18 @@
+aiofiles==24.1.0
+chromadb==0.5.18
+fastapi==0.115.5
+langchain-chroma==0.1.4
+langchain-community==0.3.7
+langchain-core==0.3.19
+langchain-openai==0.2.8
+langchain-text-splitters==0.3.2
+openai==1.55.3
+pandas ==2.2.3
+protobuf==5.28.3
+pyngrok==7.2.1
+selenium ==4.26.1
+tiktoken==0.8.0
+uvicorn==0.32.0
+webdriver-manager==4.0.2
+nest-asyncio==1.6.0
+
