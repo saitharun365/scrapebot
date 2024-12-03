@@ -32,7 +32,7 @@ name: 'Build and Deploy to Cloud Run'
 on:
   push:
     branches:
-      - '"master"'
+      ["master"]
 
 env:
   PROJECT_ID: pro-rigging-439917-u3 # TODO: update to your Google Cloud project ID
