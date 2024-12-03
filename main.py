@@ -17,8 +17,6 @@ import os
 
 # Load the .env file
 load_dotenv()
-#OPENAI_API_KEY = os.getenv("openai_api_key")
-#ngrok_auth = os.getenv("ngrok_auth")
 
 
 # Initialize FastAPI app
