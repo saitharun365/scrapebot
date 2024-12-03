@@ -19,8 +19,6 @@ load_dotenv()
 
 #OPENAI_API_KEY = os.getenv("openai_api_key")
 
-#OPENAI_API_KEY = "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"
-
 # Configure logging
 logging.basicConfig(
     filename="./scraping_log.log",

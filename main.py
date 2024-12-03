@@ -20,7 +20,6 @@ load_dotenv()
 #OPENAI_API_KEY = os.getenv("openai_api_key")
 #ngrok_auth = os.getenv("ngrok_auth")
 
-#OPENAI_API_KEY = "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"
 
 # Initialize FastAPI app
 app = FastAPI()
